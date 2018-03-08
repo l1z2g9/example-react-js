@@ -970,6 +970,7 @@ table.permission-editor td.checkbox {
   align-items: center;
   justify-content: center;
   background-color: #e0f7fa;
+  background-image: url("/img/bg.jpg");
 }
 #dummy-view a {
   text-decoration: none;

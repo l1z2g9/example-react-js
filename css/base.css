@@ -969,8 +969,8 @@ table.permission-editor td.checkbox {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #e0f7fa;
-  background-image: url("/img/bg.jpg");
+  /* background-color: #e0f7fa; */
+  background-image: url("/x/img/bg.jpg");
 }
 #dummy-view a {
   text-decoration: none;
